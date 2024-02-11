@@ -14,7 +14,7 @@ This Python script utilizes computer vision and gesture recognition techniques t
 3. Run the `hand_gesture_recognition.py` script using Python.
 
 ```bash
-main.py
+python main.py
 ```
 
 4. A GUI window will open with options to start and stop the recognition process.
