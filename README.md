@@ -1,4 +1,4 @@
-# Hand Gesture Recognition App
+# Hand Gesture Volume Control App
 
 This Python script utilizes computer vision and gesture recognition techniques to control system volume based on hand gestures detected by a webcam.
 
